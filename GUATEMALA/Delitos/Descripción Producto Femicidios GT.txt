@@ -1,0 +1,3 @@
+En este mapa interactivo usted podrá observar las variables asociadas a los femicidios ocurridos entre los años 2018 y 2020 a nivel municipal. Podrá acceder a la descripción de los hechos y antecedentes de algunos casos de femicidio registrados, así como a las acciones judiciales realizadas y la caracterización de este delito a nivel nacional. Una iniciativa de Data Intelligence para aportar en la difusión y divulgación de la violencia extrema que sufren las mujeres.
+
+Este proyecto fue realizado con datos públicos del Observatorio de la Mujer del Ministerio Público y la Fiscalía contra el delito de Femicidio.
