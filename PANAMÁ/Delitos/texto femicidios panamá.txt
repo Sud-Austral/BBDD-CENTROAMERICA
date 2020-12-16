@@ -1,0 +1,7 @@
+En este mapa interactivo usted podrá observar los antecedentes de los delitos en las diferentes categoría de femicidio 
+registrados durante los años 2018, 2019 y 2020 por cada Provincia. Podrá monitorear la evolución de estos a lo largo de los años y meses.
+Podrá analizar la conducta de los delitos según la edad y el arma utilizada contra la víctima. Una iniciativa de Data Intelligence para aportar en 
+la difusión y divulgación de la violencia extrema que sufren las mujeres. 
+
+
+Este proyecto fue realizado con datos públicos del Ministerio Público Procuraduría General de La Nación
