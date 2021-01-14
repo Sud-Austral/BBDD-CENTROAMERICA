@@ -1,0 +1,15 @@
+Links github SV Género:
+
+Acceso Internet: https://raw.githubusercontent.com/Sud-Austral/BBDD-CENTROAMERICA/main/G%C3%A9nero/El%20Salvador/Acceso%20Internet.xlsx
+Alfabetismo: https://raw.githubusercontent.com/Sud-Austral/BBDD-CENTROAMERICA/main/G%C3%A9nero/El%20Salvador/Alfabetismo.xlsx
+Asistencia Escolar: https://raw.githubusercontent.com/Sud-Austral/BBDD-CENTROAMERICA/main/G%C3%A9nero/El%20Salvador/Asistencia%20Escolar.xlsx
+Localiza: https://raw.githubusercontent.com/Sud-Austral/BBDD-CENTROAMERICA/main/G%C3%A9nero/El%20Salvador/LOCALIZA_SLV.xlsx
+Limitaciones escuchar: https://raw.githubusercontent.com/Sud-Austral/BBDD-CENTROAMERICA/main/G%C3%A9nero/El%20Salvador/Limitaciones%20Escuchar.xlsx
+Limitaciones hablar: https://raw.githubusercontent.com/Sud-Austral/BBDD-CENTROAMERICA/main/G%C3%A9nero/El%20Salvador/Limitaciones%20Hablar.xlsx
+Limitaciones ver: https://raw.githubusercontent.com/Sud-Austral/BBDD-CENTROAMERICA/main/G%C3%A9nero/El%20Salvador/Limitaciones%20Ver.xlsx
+Nivel Grado Aprobado: https://raw.githubusercontent.com/Sud-Austral/BBDD-CENTROAMERICA/main/G%C3%A9nero/El%20Salvador/Nivel%20y%20Grado%20aprobado.xlsx
+Personas Ocupadas y Desocupadas: https://raw.githubusercontent.com/Sud-Austral/BBDD-CENTROAMERICA/main/G%C3%A9nero/El%20Salvador/Personas%20Ocupadas%20y%20Desocupadas.xlsx
+PEA: https://raw.githubusercontent.com/Sud-Austral/BBDD-CENTROAMERICA/main/G%C3%A9nero/El%20Salvador/Poblaci%C3%B3n%20Econ%C3%B3micamente%20Activa.xlsx
+Población por sexo, muni, edad: https://raw.githubusercontent.com/Sud-Austral/BBDD-CENTROAMERICA/main/G%C3%A9nero/El%20Salvador/Poblaci%C3%B3n%20por%20sexo%2C%20municipio%20y%20edad.xlsx
+Pueblo Pertenencia: https://raw.githubusercontent.com/Sud-Austral/BBDD-CENTROAMERICA/main/G%C3%A9nero/El%20Salvador/Pueblo%20Pertenencia%20correcto.xlsx
+Área (urbano rural): https://raw.githubusercontent.com/Sud-Austral/BBDD-CENTROAMERICA/main/G%C3%A9nero/El%20Salvador/Urbano%20Rural.xlsx
